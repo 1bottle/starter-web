@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    onebottle	c_yeeping@outlook	@c_yeeping
 
 # THANKS
 
